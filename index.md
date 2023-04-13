@@ -2,28 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Commercial work
 
-[Project 1 Title](/sample_page)
+[Sparkler](https://www.playsparkler.org)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Mobile app development for native iOS and Android. Mostly Android.
 
 ---
-[Project 3 Title](http://example.com/)
+[Scompler](https://scompler.com)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Mobile app development in Flutter. MobX as State Managment.
 
 ---
 
-### Category Name 2
+### Personal projects and opensource
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [WinGym](https://clover-republic.com/)
+- [Chopper](https://github.com/lejard-h/chopper)
 
 ---
 
