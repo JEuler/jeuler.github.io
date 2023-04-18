@@ -17,8 +17,9 @@ Mobile app development in Flutter. MobX as State Managment.
 
 ### Personal projects and opensource
 
-- [WinGym](https://clover-republic.com/)
-- [Chopper](https://github.com/lejard-h/chopper)
+- [WinGym](https://clover-republic.com/) (more than 200k downloads on all platforms)
+- [Chopper](https://github.com/lejard-h/chopper) (co-maintainer of popular lib for Flutter)
+- [Github](https://github.com/JEuler) (A+ profile page)
 
 ---
 
