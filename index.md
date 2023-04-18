@@ -5,12 +5,12 @@
 ### Commercial work
 
 [Sparkler](https://www.playsparkler.org)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sparkler.jpg"/>
 Mobile app development for native iOS and Android. Mostly Android.
 
 ---
 [Scompler](https://scompler.com)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/scompler.jpg"/>
 Mobile app development in Flutter. MobX as State Managment.
 
 ---
