@@ -17,7 +17,6 @@ Mobile app development for native iOS and Android. Mostly Android.
 <br />
 Mobile app development in Flutter. MobX as State Managment.
 
----
 
 ---
 [Other little things on Upwork](https://www.upwork.com/freelancers/ivanterekhin)
